@@ -1,0 +1,29 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.fontSize": 13,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "none",
+    "editor.codeLens": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.minimap.renderCharacters": false,
+    
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "html",
+        "typescript": "html"
+    },
+    "search.exclude": {
+        "**/node_modules": false,
+        "**/bower_components": false
+    },
+    "workbench.editor.closeOnFileDelete": false,
+    "workbench.editor.enablePreview": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Solarized Light"
+}
