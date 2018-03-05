@@ -1,0 +1,28 @@
+{
+  "name": "boogle",
+  "version": "1.0.0",
+  "description": "Bimser Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bimser",
+    "google",
+    "uygulama",
+    "app"
+  ],
+  "author": "Bimser Ekip",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-react-views": "^0.10.5",
+    "morgan": "^1.9.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "reactbulma": "^1.1.1",
+    "request": "^2.83.0"
+  }
+}
